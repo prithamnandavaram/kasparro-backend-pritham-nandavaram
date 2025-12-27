@@ -1,0 +1,4 @@
+id,symbol,name,price_usd,last_updated
+btc-bitcoin,BTC,Bitcoin,42000.50,2023-01-01T12:00:00Z
+eth-ethereum,ETH,Ethereum,2200.75,2023-01-01T12:05:00Z
+doge-dogecoin,DOGE,Dogecoin,0.08,2023-01-01T12:10:00Z
