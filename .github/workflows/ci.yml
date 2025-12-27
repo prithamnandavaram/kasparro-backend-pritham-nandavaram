@@ -44,4 +44,4 @@ jobs:
       run: |
         # Run tests without running the app server to avoid port conflicts in CI
         # We assume tests handle DB creation or mocking
-        pytest tests/
+        python -m pytest tests/
